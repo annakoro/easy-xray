@@ -403,7 +403,8 @@ no new config created fot it${normal}"
               {
                 \"id\": \"${id}\",
                 \"email\": \"${username}@example.com\",
-                \"flow\": \"xtls-rprx-vision\"
+                \"flow\": \"xtls-rprx-vision\",
+                \"limitIp\": 2
               }
             "
             grpc_client_id="
